@@ -1,1 +1,1 @@
-# LSH
+# Locality-Sensitive Hashing
