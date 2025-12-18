@@ -1,1 +1,1 @@
-# Locality-Sensitive Hashing
+# Locality-Sensitive Hashing & Min-Hashing
